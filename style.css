@@ -1,0 +1,38 @@
+.header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.top {
+    background-color: #1f2937;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+}
+
+.links{
+    display: flex;
+    gap: 15px;
+    padding: 40px;
+}
+ .website{
+    background-color: #1f2937;
+    color:#ffffff;
+    display: flex;
+    justify-content: space-around;
+ }
+ .web {
+    justify-content: space-around;
+ }
+ .web .title{
+    font-size: 48px;
+    font-weight: bolder;
+ }
+  .web .sign {
+    font-size: 20px;
+ }
+ .web .signup {
+    background-color: #87cefa;
+ }
+ .img {
+    width: 50%;
+    height: auto;
+ }
