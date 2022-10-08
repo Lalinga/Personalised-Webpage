@@ -61,7 +61,6 @@
     width: 300px;
     height: 300px;
  }
-
  .quote {
     background-color: #e5e7eb;
     color: #1F2937;
@@ -78,4 +77,25 @@
     display: flex;
     justify-content: center;
     font-weight: bold;
+ }
+
+ .last {
+    background-color: lightblue;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    gap: 8px;
+    flex-shrink: 2;
+ }
+ .click {
+    padding: 10px;
+    flex-shrink: 2;}
+    .up {
+   background-color: #3882f6;
+ }
+ .empty {
+    background-color: #ffffff;
+    color: #ffffff;
+    padding: 20px;
  }
