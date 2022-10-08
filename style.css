@@ -80,7 +80,7 @@
  }
 
  .last {
-    background-color: lightblue;
+    background-color: rgb(88, 183, 215);
     color: #e5e7eb;
     display: flex;
     justify-content: center;
